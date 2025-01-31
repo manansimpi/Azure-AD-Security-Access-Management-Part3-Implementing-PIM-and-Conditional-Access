@@ -1,4 +1,4 @@
-# Azure-AD-Security-Access-Management-Part3-Implementing-PIM
+# Azure AD Security Access Management Part3 Implementing PIM and Conditional Access
 ## Step 1: Enabling Privileged Identity Management (PIM) and Conditional Access.
 1. Getting Azure P2 licence as Conditional Access and PIM are the functionality offered only on the P2 License.
 
